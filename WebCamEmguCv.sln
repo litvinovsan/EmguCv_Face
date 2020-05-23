@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCamEmguCv", "WebCamEmguCv\WebCamEmguCv.csproj", "{0A946072-0AAA-4259-AC8A-7AAE43F42D3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A946072-0AAA-4259-AC8A-7AAE43F42D3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A946072-0AAA-4259-AC8A-7AAE43F42D3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A946072-0AAA-4259-AC8A-7AAE43F42D3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A946072-0AAA-4259-AC8A-7AAE43F42D3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AE35455-CC58-4449-AC8D-C2F69E5FD2FE}
+	EndGlobalSection
+EndGlobal
